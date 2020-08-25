@@ -93,7 +93,7 @@ $ git push origin master
 
 
 
-![git.png](C:\Users\student\Desktop\git.png)      ![github.png](C:\Users\student\Desktop\github.png)
+![git.png](./git.png)      ![github.png](./github.png)
 
 
 
